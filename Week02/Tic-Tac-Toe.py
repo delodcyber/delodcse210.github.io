@@ -1,4 +1,6 @@
-# Tic-Tac-Toe
+# W02 Prove: Developer - Solo Code Submission - Tic-Tac-Toe
+# By John A. Adeloye
+
 # Plays the game of tic-tac-toe against a human opponent
    
 # global constants
